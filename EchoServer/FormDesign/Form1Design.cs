@@ -80,7 +80,7 @@ namespace EchoServer.FormDesign
 
             labelFoot = new Label();
             labelFoot.AutoSize = false;
-            labelFoot.Text = "Copyright (c)  2021-2023  entrance-to-develop06";
+            labelFoot.Text = "Copyright (c)  2021-2024  entrance-to-develop06";
             labelFoot = (Label)(ControlsSetting(labelFoot, "LabelFoot", 30, 740, 400, 19));
         }
     }
