@@ -3,10 +3,10 @@
 ## 開発環境  
 
 ```
-統合開発環境：Microsoft Visual Studio 2022 Community Edition 17.8.4  
+統合開発環境：Microsoft Visual Studio 2022 Community Edition 17.11.1  
 プログラム言語：C# 12  
-フレームワーク：.NET 8.0.1  
-開発SDK：.NET SDK 8.0.101  
+フレームワーク：.NET 8.0.8  
+開発SDK：.NET SDK 8.0.401  
 デスクトップ：Windows Formsアプリケーション  
 ```
 
