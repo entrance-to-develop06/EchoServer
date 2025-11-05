@@ -213,14 +213,16 @@ namespace EchoServer
                             }
                         }));
 
-                        //文字列をByte型配列に変換
-                        byte[] sendBytes = enc.GetBytes(sendMsg);
-                        //データを送信する
-                        NetStm.Write(sendBytes, 0, sendBytes.Length);
-                        MsgSend = sendMsg.Replace("\r", "");
-
-                        this.Invoke((Action)(() => { fDesign.richTextBox1.AppendText(sendMsg + "\r\n"); }));
+                        
                     }
+                    //文字列をByte型配列に変換
+                    byte[] sendBytes = enc.GetBytes(sendMsg);
+                    //データを送信する
+                    NetStm.Write(sendBytes, 0, sendBytes.Length);
+                    NetStm.Flush();
+                    MsgSend = sendMsg.Replace("\r\n", "");
+
+                    this.Invoke((Action)(() => { fDesign.richTextBox1.AppendText(sendMsg + "\r\n"); }));
                 }
             }
 
@@ -252,6 +254,7 @@ namespace EchoServer
             Controls.Add(fDesign.buttonExit);
             fDesign.buttonExit.Click += new System.EventHandler(this.ButtonExit_Click);
 
+            Controls.Add(fDesign.checkBox1);
             Controls.Add(fDesign.labelFoot);
 
         }

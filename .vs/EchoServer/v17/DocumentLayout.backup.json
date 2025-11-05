@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{64895B35-40E5-421C-8FA5-DAA21830FE0C}|EchoServer\\EchoServer.csproj|solutionrelative:echoserver\\formdesign\\form1design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64895B35-40E5-421C-8FA5-DAA21830FE0C}|EchoServer\\EchoServer.csproj|c:\\workspace\\dotnet\\echoserver\\echoserver\\form1control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{64895B35-40E5-421C-8FA5-DAA21830FE0C}|EchoServer\\EchoServer.csproj|C:\\Workspace\\DotNet\\EchoServer\\echoserver\\form1control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{64895B35-40E5-421C-8FA5-DAA21830FE0C}|EchoServer\\EchoServer.csproj|solutionrelative:echoserver\\form1control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,9 +30,9 @@
               "Title": "Form1Design.cs",
               "DocumentMoniker": "C:\\Workspace\\DotNet\\EchoServer\\EchoServer\\FormDesign\\Form1Design.cs",
               "RelativeDocumentMoniker": "EchoServer\\FormDesign\\Form1Design.cs",
-              "ToolTip": "C:\\Workspace\\DotNet\\EchoServer\\EchoServer\\FormDesign\\Form1Design.cs",
-              "RelativeToolTip": "EchoServer\\FormDesign\\Form1Design.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Workspace\\DotNet\\EchoServer\\EchoServer\\FormDesign\\Form1Design.cs*",
+              "RelativeToolTip": "EchoServer\\FormDesign\\Form1Design.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwE0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2022-12-18T01:27:23.14Z",
               "EditorCaption": ""
@@ -43,9 +43,9 @@
               "Title": "Form1Control.cs",
               "DocumentMoniker": "C:\\Workspace\\DotNet\\EchoServer\\EchoServer\\Form1Control.cs",
               "RelativeDocumentMoniker": "EchoServer\\Form1Control.cs",
-              "ToolTip": "C:\\Workspace\\DotNet\\EchoServer\\EchoServer\\Form1Control.cs",
-              "RelativeToolTip": "EchoServer\\Form1Control.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwBsAAABRAAAAAAAAAA==",
+              "ToolTip": "C:\\Workspace\\DotNet\\EchoServer\\EchoServer\\Form1Control.cs*",
+              "RelativeToolTip": "EchoServer\\Form1Control.cs*",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAAPoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2022-12-16T04:48:55.855Z",
               "EditorCaption": ""
@@ -56,8 +56,8 @@
               "Title": "Form1Control.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Workspace\\DotNet\\EchoServer\\EchoServer\\Form1Control.cs",
               "RelativeDocumentMoniker": "EchoServer\\Form1Control.cs",
-              "ToolTip": "C:\\Workspace\\DotNet\\EchoServer\\EchoServer\\Form1Control.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "EchoServer\\Form1Control.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "ToolTip": "C:\\Workspace\\DotNet\\EchoServer\\EchoServer\\Form1Control.cs [\u30C7\u30B6\u30A4\u30F3]*",
+              "RelativeToolTip": "EchoServer\\Form1Control.cs [\u30C7\u30B6\u30A4\u30F3]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2022-12-16T04:46:47.261Z",
               "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
